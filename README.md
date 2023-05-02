@@ -45,10 +45,10 @@ As questões que limitam a execução desse projeto e que se configuram como obr
 ## Interface do sistema
 
 *Imagem da página principal do sitema*
-![Diagrama de casos de uso](./public/images/homePage.png)
+![Diagrama de casos de uso](./public/images/homeP.png)
 
 *Imagem da página de relatorio do sistema.*
-![Diagrama de casos de uso](./public/images/reportPage.png)
+![Diagrama de casos de uso](./public/images/reportP.png)
 
 ## Diagrama de Casos de Uso
 
